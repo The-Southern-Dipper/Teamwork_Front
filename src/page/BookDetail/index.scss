@@ -1,0 +1,48 @@
+.bookimg {
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    left: 28%;
+    top: 15%;
+    background: center no-repeat url("../../assets/Laffey.png");
+    background-size: 100% 100%;
+}
+
+.title {
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    display: block;
+    font-size: 22px;
+    position: absolute;
+    left: 53%;
+    top: 15%;
+}
+
+.price {
+    font-weight: 500;
+    color: red;
+    text-align: center;
+    display: block;
+    font-size: 22px;
+    position: absolute;
+    left: 53%;
+    top: 26%;
+}
+
+.seller {
+    font-weight: 350;
+    color: gray;
+    text-align: left;
+    display: block;
+    font-size: 15px;
+    position: absolute;
+    left: 53%;
+    top: 34%;
+}
+
+.button {
+    position: absolute;
+    left: 53%;
+    top: 52%;
+}
